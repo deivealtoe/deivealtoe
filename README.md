@@ -1,4 +1,4 @@
-### Hello there, <s>general kenobi</s> sou o Deivisson - aka [Deive] 👋 
+### Hello there, <s>general kenobi</s> sou o Deivisson - aka [Deive] - it is like [Dave] in english 👋 
 
 
 ## I'm a student and developer!!
