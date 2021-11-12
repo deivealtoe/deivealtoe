@@ -1,11 +1,11 @@
-### Hello there, <s>general kenobi</s> sou o Deivisson - aka [Deive] 👋 <i><sub>- it is pronounced like [Dave] in english</sub></i>
+### Hello there, <s>general kenobi</s> I'm Deivisson - aka [Deive] 👋 <i><sub>- it is pronounced like [Dave] in english 😃</sub></i>
 
 
 ## I'm a student and developer!!
 
 - 🌱 I’m currently learning everything 🤣
--   - Seja backend, frontend ou devops (and english 👀)
-- 👯 I’m looking to a software engineer job
+- 🎃 But I'm focusing on learning all about backend (and devOps 👀)
+- 👯 Also I'm looking to a backend developer/engineer job
 
 ### Connect with me:
 
@@ -30,22 +30,20 @@
 <img align="left" alt="Terminal" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 <img align="left" alt="Visual Studio Code" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 
-
 <br />
 <br />
 <br />
-<br />
-
 
 <div align="left">
     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=deivealtoe&show_icons=true&theme=radical&include_all_commits=true&count_private=false)"/>
     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deivealtoe&layout=compact&theme=radical"/>
 </div>
 
-
-<br />
 <br />
 
+<img src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
+
+<br />
 
 [instagram]: https://instagram.com/deive_altoe
 [linkedin]: https://linkedin.com/in/deive-altoe
