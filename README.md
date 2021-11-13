@@ -4,8 +4,7 @@
 ## I'm a student and developer!!
 
 - 🌱 I’m currently learning everything 🤣
-- 🎃 But I'm focusing on learning all about backend (and devOps 👀)
-- 👯 Also I'm looking to a backend developer/engineer job
+- 🎃 All that makes me a better software developer
 
 ### Connect with me:
 
