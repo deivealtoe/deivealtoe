@@ -1,10 +1,9 @@
 ### Hello there, <s>general kenobi</s> I'm Deivisson - aka [Deive] 👋 <i><sub>- it is pronounced like [Dave] in english 😃</sub></i>
 
-
-## I'm a student and developer!!
+## I'm a backend student!!
 
 - 🌱 I’m currently learning everything 🤣
-- 🎃 All that makes me a better software developer
+- 🎃 All that makes me a better software / backend developer
 
 ### Connect with me:
 
