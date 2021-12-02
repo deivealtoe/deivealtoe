@@ -13,24 +13,16 @@
 
 ### Programming Languages and Tools:
 
-<img align="left" alt="Java" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />
-<img align="left" alt="Maven" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/maven/maven.png" />
-<img align="left" alt="Spring-Boot" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/spring-boot/spring-boot.png" />
-<img align="left" alt="Docker" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />
-<img align="left" alt="MongoDB" width="35px" src="https://assets-global.website-files.com/6009f6f109d51e60b911ba53/60232c7fee9f278674db9c2c_9kib-354x415-unnamed-mongodb-logo-sv-11562860723mgempnmrq3.png" />
-<img align="left" alt="PostgreSQL" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" />
-<img align="left" alt="MySQL" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-<img align="left" alt="HTML5" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="JavaScript" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="NodeJS" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<img align="left" alt="Git" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="Terminal" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-<img align="left" alt="Visual Studio Code" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="IntelliJ-idea" width="35px" src="https://dashboard.snapcraft.io/site_media/appmedia/2017/10/logo_zjwX5FR.png" />
+<img src="https://img.shields.io/badge/javascript-High%20Level,%20Dynamic%20Typing,%20Multi--Paradigm-yellow?logo=javascript&style=for-the-badge" />
+<img src="https://img.shields.io/badge/node.js-Back--end%20javaScript%20runtime%20environment-43853D?logo=nodedotjs&style=for-the-badge" />
+<img src="https://img.shields.io/badge/java-High%20Level,%20Class%20Based,%20Object--Oriented-5283A2?logo=java&style=for-the-badge" />
+<img src="https://img.shields.io/badge/Spring%20Framework-Inversion%20of%20control%20container%20for%20the%20Java%20platform-5FB92E?logo=spring&style=for-the-badge" />
+<img src="https://img.shields.io/badge/Docker-Set%20of%20platform%20as%20a%20service%20products%20that%20use%20OS--level%20virtualization-2496ED?logo=docker&style=for-the-badge" />
+<img src="https://img.shields.io/badge/MongoDB-NoSQL,%20Document--oriented%20Database-023430?logo=mongodb&style=for-the-badge" />
+<img src="https://img.shields.io/badge/PostgreSQL-Object--relational%20database%20system-32668F?logo=postgresql&style=for-the-badge" />
+<img src="https://img.shields.io/badge/Git-Version%20control%20system-F54D27?logo=git&style=for-the-badge" />
+<img src="https://img.shields.io/badge/Bash-Unix%20shell%20and%20command%20language-272F35?logo=gnubash&style=for-the-badge" />
 
-<br />
-<br />
 <br />
 
 <div align="left">
