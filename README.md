@@ -13,6 +13,7 @@
 
 ### Programming Languages and Tools:
 
+<img src="https://img.shields.io/badge/Python-Interpreted,%20high--level,%20general--purpose-2C6999?logo=python&style=for-the-badge" />
 <img src="https://img.shields.io/badge/Go-Statically%20typed,%20Compiled,%20Designed%20at%20Google-blue?logo=go&style=for-the-badge" />
 <img src="https://img.shields.io/badge/javaScript-High%20Level,%20Dynamic%20Typing,%20Multi--Paradigm-yellow?logo=javascript&style=for-the-badge" />
 <img src="https://img.shields.io/badge/Node.JS-Back--end%20javaScript%20runtime%20environment-43853D?logo=nodedotjs&style=for-the-badge" />
