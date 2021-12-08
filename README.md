@@ -20,6 +20,7 @@
 <img src="https://img.shields.io/badge/Java-High%20Level,%20Class%20Based,%20Object--Oriented-5283A2?logo=java&style=for-the-badge" />
 <img src="https://img.shields.io/badge/Spring%20Framework-Inversion%20of%20control%20container%20for%20the%20Java%20platform-5FB92E?logo=spring&style=for-the-badge" />
 <img src="https://img.shields.io/badge/Docker-Set%20of%20platform%20as%20a%20service%20products%20that%20use%20OS--level%20virtualization-2496ED?logo=docker&style=for-the-badge" />
+<img src="https://img.shields.io/badge/AWS-On--demand%20cloud%20computing%20platforms%20and%20API's-FF9900?logo=amazonaws&style=for-the-badge" />
 <img src="https://img.shields.io/badge/MongoDB-NoSQL,%20Document--oriented%20Database-023430?logo=mongodb&style=for-the-badge" />
 <img src="https://img.shields.io/badge/PostgreSQL-Object--relational%20database%20system-32668F?logo=postgresql&style=for-the-badge" />
 <img src="https://img.shields.io/badge/Git-Version%20control%20system-F54D27?logo=git&style=for-the-badge" />
