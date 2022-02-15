@@ -3,7 +3,7 @@
 ## I'm a backend student!!
 
 - 🌱 I’m currently learning everything 🤣
-- 🎃 All that makes me a better software / backend developer
+- 🎃 All that makes me a better software developer
 
 ### Connect with me:
 
