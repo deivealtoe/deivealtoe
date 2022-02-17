@@ -3,7 +3,6 @@
 ## I'm a backend student!!
 
 - 🌱 I’m currently learning everything 🤣
-- 🎃 All that makes me a better software developer
 
 ### Connect with me:
 
@@ -13,7 +12,6 @@
 
 ### Programming Languages and Tools:
 
-<img src="https://img.shields.io/badge/Python-Interpreted,%20high--level,%20general--purpose-2C6999?logo=python&style=for-the-badge" />
 <img src="https://img.shields.io/badge/Go-Statically%20typed,%20Compiled,%20Designed%20at%20Google-blue?logo=go&style=for-the-badge" />
 <img src="https://img.shields.io/badge/Docker-Set%20of%20platform%20as%20a%20service%20products%20that%20use%20OS--level%20virtualization-2496ED?logo=docker&style=for-the-badge" />
 <img src="https://img.shields.io/badge/AWS-On--demand%20cloud%20computing%20platforms%20and%20API's-FF9900?logo=amazonaws&style=for-the-badge" />
