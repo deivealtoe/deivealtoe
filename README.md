@@ -12,11 +12,16 @@
 
 ### Programming Languages and Tools:
 
+<img src="https://img.shields.io/badge/javaScript-High%20Level,%20Dynamic%20Typing,%20Multi--Paradigm-yellow?logo=javascript&style=for-the-badge" />
+<img src="https://img.shields.io/badge/Node.JS-Back--end%20javaScript%20runtime%20environment-43853D?logo=nodedotjs&style=for-the-badge" />
 <img src="https://img.shields.io/badge/Go-Statically%20typed,%20Compiled,%20Designed%20at%20Google-blue?logo=go&style=for-the-badge" />
 <img src="https://img.shields.io/badge/Docker-Set%20of%20platform%20as%20a%20service%20products%20that%20use%20OS--level%20virtualization-2496ED?logo=docker&style=for-the-badge" />
 <img src="https://img.shields.io/badge/AWS-On--demand%20cloud%20computing%20platforms%20and%20API's-FF9900?logo=amazonaws&style=for-the-badge" />
 <img src="https://img.shields.io/badge/Git-Version%20control%20system-F54D27?logo=git&style=for-the-badge" />
 <img src="https://img.shields.io/badge/Bash-Unix%20shell%20and%20command%20language-272F35?logo=gnubash&style=for-the-badge" />
+<img src="https://img.shields.io/badge/MongoDB-NoSQL,%20Document--oriented%20Database-023430?logo=mongodb&style=for-the-badge" />
+<img src="https://img.shields.io/badge/PostgreSQL-Object--relational%20database%20system-32668F?logo=postgresql&style=for-the-badge" />
+<img src="https://img.shields.io/badge/SQL%20Server-Relational%20database%20management%20system-A91D22?logo=microsoftsqlserver&style=for-the-badge" />
 
 <br />
 
