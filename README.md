@@ -1,6 +1,6 @@
 ### Hello there, <s>general kenobi</s> I'm Deivisson - aka [Deive] 👋 <i><sub>- it is pronounced like [Dave] in english 😃</sub></i>
 
-## I'm a backend student!!
+## I'm a fullstack developer student!!
 
 - 🌱 I’m currently learning everything 🤣
 
