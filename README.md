@@ -19,6 +19,7 @@
 <img src="https://img.shields.io/badge/AWS-On--demand%20cloud%20computing%20platforms%20and%20API's-FF9900?logo=amazonaws&style=for-the-badge" />
 <img src="https://img.shields.io/badge/Git-Version%20control%20system-F54D27?logo=git&style=for-the-badge" />
 <img src="https://img.shields.io/badge/Bash-Unix%20shell%20and%20command%20language-272F35?logo=gnubash&style=for-the-badge" />
+<img src="https://img.shields.io/badge/MySQL-Open--Source%20relational%20database%20management%20system-0A5E86?logo=mysql&style=for-the-badge" />
 <img src="https://img.shields.io/badge/MongoDB-NoSQL,%20Document--oriented%20Database-023430?logo=mongodb&style=for-the-badge" />
 <img src="https://img.shields.io/badge/PostgreSQL-Object--relational%20database%20system-32668F?logo=postgresql&style=for-the-badge" />
 <img src="https://img.shields.io/badge/SQL%20Server-Relational%20database%20management%20system-A91D22?logo=microsoftsqlserver&style=for-the-badge" />
