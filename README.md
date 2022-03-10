@@ -1,4 +1,4 @@
-### Hello there, <s>general kenobi</s> I'm Deivisson - aka [Deive] 👋 <i><sub>- it is pronounced like [Dave] in english 😃</sub></i>
+### Hello there, <s>general kenobi</s> I'm Deivisson - aka [Deive] 👋
 
 ## I'm a fullstack developer student!!
 
