@@ -2,7 +2,7 @@
 
 ## I'm a fullstack developer student!!
 
-- 🌱 I’m currently focusing on JavaScript/NodeJS and Dart/Flutter
+- 🌱 I’m currently focusing on JavaScript/Node.JS and Dart/Flutter
 
 ### Connect with me:
 
